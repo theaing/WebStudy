@@ -7,6 +7,7 @@ public class Const {
         String ROLE_CUSTOMER = "CUSTOMER";
         String ROLE_ADMIN = "ADMIN";
         String ROLE_DEV = "DEV";
+        String RRR ="aaa";
     }
 
 }
